@@ -1,0 +1,11 @@
+name: lidar_processing
+channels:
+  - conda-forge
+dependencies:
+  - python >=3.11,<3.13
+  - pdal
+  - proj
+  - gdal
+  - laspy
+  - poetry
+  - pip

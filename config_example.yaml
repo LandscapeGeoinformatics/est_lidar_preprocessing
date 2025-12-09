@@ -1,0 +1,22 @@
+db:
+  dbname: 'dbname'
+  db_schema: 'lidar_processing'
+  user: 'user'
+  password: 'xxxxxx'
+  host: 'localhost'
+  port: 5432
+storage:
+  gsjson: 'google_auth_json'
+  bucket: 'gs://bucket'
+  laz_path: 'test_lidar_processing/LAZ'
+  fix_path: 'test_lidar_processing/LAZ_fixed'
+  reclassify_path: 'test_lidar_processing/Reclassified'
+  dem_path: 'test_lidar_processing/DTM'
+  ndvi_path: 'gs://geo-assets/dcube_pub/estonia/sentinel2/ndvi'
+  etak_path: './ETAK'
+lidar:
+  laz_mapsheets: [ 'laz_map_sheets_#' ]
+  laz_to_crs: ''
+  laz_year: 2017
+  laz_type: 'tava'
+  dem_year: 2017
