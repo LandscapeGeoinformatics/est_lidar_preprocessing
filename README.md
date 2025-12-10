@@ -2,6 +2,8 @@
 
 Code supplement: Towards National-Scale Ecological Applications: Harmonised framework for LiDAR point cloud processing for vegetation metrics calculation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17867740.svg)](https://doi.org/10.5281/zenodo.17867740)
+
 # Preprocessing workflow
 
 ## DB Setup
