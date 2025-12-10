@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sisas"
+  given-names: "Eveli"
+  orcid: https://orcid.org/0009-0002-5032-249X
+- family-names: "Virro"
+  given-names: "Holger"
+  orcid: https://orcid.org/0000-0001-6110-5453
+- family-names: "Chan"
+  given-names: "Wai Tik"
+  orcid: "https://orcid.org/0009-0005-3779-139X"
+- family-names: "Kmoch"
+  given-names: "Alexander"
+  orcid: https://orcid.org/0000-0003-4386-4450
+- family-names: "Uuemaa"
+  given-names: "Evelyn"
+  orcid: https://orcid.org/0000-0002-0782-6740
+title: "Code supplement: Towards National-Scale Ecological Applications: Harmonised framework for LiDAR point cloud processing for vegetation metrics calculation"
+version: 1.0.1
+doi: 10.5281/zenodo.17867740
+date-released: 2025-12-10
+url: "https://github.com/LandscapeGeoinformatics/est_lidar_preprocessing"
