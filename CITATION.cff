@@ -19,5 +19,5 @@ authors:
 title: "Code supplement: Towards National-Scale Ecological Applications: Harmonised framework for LiDAR point cloud processing for vegetation metrics calculation"
 version: 1.0.1
 doi: 10.5281/zenodo.17867740
-date-released: 2025-12-10
+date-released: 2025-12-09
 url: "https://github.com/LandscapeGeoinformatics/est_lidar_preprocessing"
