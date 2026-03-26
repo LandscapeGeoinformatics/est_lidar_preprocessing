@@ -4,6 +4,8 @@ Code supplement: Towards National-Scale Ecological Applications: Harmonised fram
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17867740.svg)](https://doi.org/10.5281/zenodo.17867740)
 
+Additional information about fixing LAZ file headers, ancillary data used during reclassification and the automated processing pipeline can be found in the [appendix](https://github.com/LandscapeGeoinformatics/est_lidar_preprocessing/blob/main/estonian_als_preprocessing_appendix.pdf).
+
 # Preprocessing workflow
 
 ## DB Setup
